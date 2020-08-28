@@ -4,10 +4,10 @@
 - EES (Equipment Engnineering System) design and development
 
 ### Interest
-- Product defect analiysis and early detect by datay analysis and ML algorithm
+- Product defect data analiysis and early detection with machine learning
 - Enhancemd process optimization with Deep Reinforcement Learning
-- ADC(Automated Defect Classification) system implemetation by using ML algorithm
-- Implementation of an improved equipment abnormality detection system through the application of machine learning
+- ADC(Automated Defect Classification) system implemetation by using CNN
+- Implementation of an improved equipment abnormality detection system through RNN
 
 <div align=center>
 
