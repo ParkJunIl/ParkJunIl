@@ -3,7 +3,7 @@
 - Flat panel / semiconductor process optimization
 - EES (Equipment Engnineering System) design and development
 
-### Interest
+### Interest : Smart Factory through optimized ML modeling
 - Product defect and equipment data analiysis and early detection with machine learning
 - Enhanced process optimization with Deep Reinforcement Learning
 - ADC(Automated Defect Classification) system implemetation by using CNN
