@@ -8,7 +8,7 @@
 - Product defect and Equipment abnormali early detection with supervised learning based on the defect / FDC data
 - Enhanced process optimization with Deep Reinforcement Learning (APC + Neural Network)
 - ADC (Automated Defect Classification) system implemetation through Convolutional Neural Network
-- Implementation of VM(Virtual Metrology) system with machine learning algorithm (PCA + K-Means + RNN + CNN)
+- Implementation of VM (Virtual Metrology) system with machine learning algorithm (PCA + K-Means + RNN + CNN)
 
 <div align=left>
 
