@@ -4,10 +4,10 @@
 - EES (Equipment Engnineering System) design and development
 
 ### Interest : Smart Factory through optimized ML modeling
-- Product defect and equipment data analiysis 
+- Product defect and equipment data analysis 
 - Product defect and Equipment abnormali early detection with supervised learning based on the measure / FDC data
 - Enhanced process optimization with Deep Reinforcement Learning (APC + Neural Network)
-- ADC (Automated Defect Classification) system implemetation through Convolutional Neural Network
+- ADC (Automated Defect Classification) system implementation through Convolutional Neural Network
 - Implementation of VM (Virtual Metrology) system with machine learning algorithm (PCA + K-Means + RNN + CNN)
 
 <div align=left>
